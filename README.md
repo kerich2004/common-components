@@ -2,7 +2,7 @@
 
 ## List:
 
-- Slider
+- [Slider](https://kerich2004.github.io/slider-component/)
 - Carousel
 - [Breadcrumbs](https://kerich2004.github.io/breadcrumbs-component/)
 - Burger
