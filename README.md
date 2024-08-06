@@ -4,7 +4,7 @@
 
 - Slider
 - Carousel
-- Breadcrumbs
+- [Breadcrumbs] (https://kerich2004.github.io/breadcrumbs-component/)
 - Burger
 - Card
 - Search
