@@ -5,7 +5,7 @@
 - [Slider](https://kerich2004.github.io/slider-component/)
 - Carousel
 - [Breadcrumbs](https://kerich2004.github.io/breadcrumbs-component/)
-- Burger
+- [Burger](https://kerich2004.github.io/burger-menu-component/)
 - Card
 - Search
 - Grid
