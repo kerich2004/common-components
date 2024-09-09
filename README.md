@@ -24,6 +24,6 @@
 - Toast
 - Bubble tooltip
 - Tree navigation
-- Dashboard
+- [Dashboard](https://github.com/kerich2004/chip-component/)
 - Graph, chart
 - [Calendar](https://kerich2004.github.io/my-calendar/)
